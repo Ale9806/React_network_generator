@@ -1,0 +1,12 @@
+INPUT, REACTION, OUTPUT
+['C(C1C(C(C(C(O)O1)O)O)O)O'], 'reaction_0',['C=C1C(C(C(C(O)O1)O)O)O']
+['C(C1C(C(C(C(O)O1)O)O)O)O'], 'reaction_1',[ 'C1C(C(C(O)OC=1CO)O)O']
+ ['C(C1C(C(C(C(O)O1)O)O)O)O'], 'reaction_2',['C1(O)OC(CO)C(C(C=1)O)O']
+['C(C1C(C(C(C(O)O1)O)O)O)O'], 'reaction_3',['C1OC(CO)C(C(C=1O)O)O']
+ ['C(C1C(C(C(C(O)O1)O)O)O)O'], 'reaction_4',['C1C(C(CO)OC(C=1O)O)O']
+ ['C(C1C(C(C(C(O)O1)O)O)O)O'], 'reaction_5',[ 'C1(C(C(CO)OC(C=1)O)O)O']
+['C(C1C(C(C(C(O)O1)O)O)O)O'], 'reaction_6',['C1(C(C(OC(C=1)CO)O)O)O']
+ ['C(C1C(C(C(C(O)O1)O)O)O)O'], 'reaction_7',['C1C(C(OC(C=1O)CO)O)O']
+['C(C1C(C(C(C(O)O1)O)O)O)O'], 'reaction_8',['C(O)=C(C(C(C(CO)O)O)O)O']
+['C(C1C(C(C(C(O)O1)O)O)O)O'], 'reaction_9',['C(C(C(C(O)O)O)O)(O)=CCO']
+ ['C(C1C(C(C(C(O)O1)O)O)O)O'], 'reaction_10',['C(O)=CC(C(C(C(O)O)O)O)O']

@@ -1,0 +1,6 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {0.1}Input MOLECULES}{2}{section.0.1}
+\contentsline {section}{\numberline {0.2}Input Molecules}{2}{section.0.2}
+\contentsline {subsection}{\numberline {0.2.1}\texttt {Glucose}}{2}{subsection.0.2.1}
+\contentsline {subsection}{\numberline {0.2.2}\texttt {water}}{2}{subsection.0.2.2}
+\contentsline {subsection}{\numberline {0.2.3}DG Hyper, \texttt {dg\_0}}{3}{subsection.0.2.3}

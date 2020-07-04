@@ -1,0 +1,83 @@
+digraph g {
+
+// id = 0, graphName = Glucose
+"0-0" [ shape=ellipse label="Glucose" image="out/000_g_0_11311100.svg" ];
+// id = 1, graphName = water
+"1-0" [ shape=ellipse label="water" image="out/001_g_1_11311100.svg" ];
+// id = 2, graphName = p_{0,0}
+"2-0" [ shape=ellipse label="p_{0,0}" image="out/003_g_3_11311100.svg" ];
+// id = 4, graphName = p_{0,1}
+"4-0" [ shape=ellipse label="p_{0,1}" image="out/004_g_4_11311100.svg" ];
+// id = 6, graphName = p_{0,2}
+"6-0" [ shape=ellipse label="p_{0,2}" image="out/005_g_6_11311100.svg" ];
+// id = 8, graphName = p_{0,3}
+"8-0" [ shape=ellipse label="p_{0,3}" image="out/006_g_8_11311100.svg" ];
+// id = 10, graphName = p_{0,4}
+"10-0" [ shape=ellipse label="p_{0,4}" image="out/007_g_10_11311100.svg" ];
+// id = 12, graphName = p_{0,5}
+"12-0" [ shape=ellipse label="p_{0,5}" image="out/008_g_12_11311100.svg" ];
+// id = 14, graphName = p_{0,6}
+"14-0" [ shape=ellipse label="p_{0,6}" image="out/009_g_14_11311100.svg" ];
+// id = 16, graphName = p_{0,7}
+"16-0" [ shape=ellipse label="p_{0,7}" image="out/010_g_16_11311100.svg" ];
+// id = 18, graphName = p_{0,8}
+"18-0" [ shape=ellipse label="p_{0,8}" image="out/011_g_18_11311100.svg" ];
+// id = 20, graphName = p_{0,9}
+"20-0" [ shape=ellipse label="p_{0,9}" image="out/012_g_19_11311100.svg" ];
+// id = 22, graphName = p_{0,10}
+"22-0" [ shape=ellipse label="p_{0,10}" image="out/013_g_20_11311100.svg" ];
+// id = 3{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,0}' }
+"3-0" [ shape=box label="r_{209}" ];
+// id = 5{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,1}' }
+"5-0" [ shape=box label="r_{209}" ];
+// id = 7{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,2}' }
+"7-0" [ shape=box label="r_{209}" ];
+// id = 9{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,3}' }
+"9-0" [ shape=box label="r_{209}" ];
+// id = 11{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,4}' }
+"11-0" [ shape=box label="r_{209}" ];
+// id = 13{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,5}' }
+"13-0" [ shape=box label="r_{209}" ];
+// id = 15{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,6}' }
+"15-0" [ shape=box label="r_{209}" ];
+// id = 17{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,7}' }
+"17-0" [ shape=box label="r_{209}" ];
+// id = 3{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,0}' }
+"0-0" -> "3-0" [ ];
+"3-0" -> "1-0" [ ];
+"3-0" -> "2-0" [ ];
+// id = 5{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,1}' }
+"0-0" -> "5-0" [ ];
+"5-0" -> "1-0" [ ];
+"5-0" -> "4-0" [ ];
+// id = 7{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,2}' }
+"0-0" -> "7-0" [ ];
+"7-0" -> "1-0" [ ];
+"7-0" -> "6-0" [ ];
+// id = 9{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,3}' }
+"0-0" -> "9-0" [ ];
+"9-0" -> "1-0" [ ];
+"9-0" -> "8-0" [ ];
+// id = 11{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,4}' }
+"0-0" -> "11-0" [ ];
+"11-0" -> "1-0" [ ];
+"11-0" -> "10-0" [ ];
+// id = 13{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,5}' }
+"0-0" -> "13-0" [ ];
+"13-0" -> "1-0" [ ];
+"13-0" -> "12-0" [ ];
+// id = 15{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,6}' }
+"0-0" -> "15-0" [ ];
+"15-0" -> "1-0" [ ];
+"15-0" -> "14-0" [ ];
+// id = 17{ 'Glucose' }, 'Alkene Addition Elimination, O, H', { 'water' 'p_{0,7}' }
+"0-0" -> "17-0" [ ];
+"17-0" -> "1-0" [ ];
+"17-0" -> "16-0" [ ];
+// id = 19{ 'Glucose' }, 'Alkene Addition Elimination, O, C', { 'p_{0,8}' }
+"0-0" -> "18-0" [ label="r_{210}" ];
+// id = 21{ 'Glucose' }, 'Alkene Addition Elimination, O, C', { 'p_{0,9}' }
+"0-0" -> "20-0" [ label="r_{210}" ];
+// id = 23{ 'Glucose' }, 'Alkene Addition Elimination, O, C', { 'p_{0,10}' }
+"0-0" -> "22-0" [ label="r_{210}" ];
+}

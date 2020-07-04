@@ -1,0 +1,524 @@
+Running VM ---------------------------------------------------------
+Executing code from 'glucose2.py'
+Executing code from '../hcn/rules/all.py'
+Executing code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'common.py' ('../hcn/rules/common.py')
+Executing code from 'knoevenagel.py' ('../hcn/rules/knoevenagel.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'knoevenagel.py' ('../hcn/rules/knoevenagel.py')
+Executing code from 'damnScission.py' ('../hcn/rules/damnScission.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'damnScission.py' ('../hcn/rules/damnScission.py')
+Executing code from 'cyanogenAmmonolysis.py' ('../hcn/rules/cyanogenAmmonolysis.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'cyanogenAmmonolysis.py' ('../hcn/rules/cyanogenAmmonolysis.py')
+Executing code from 'cyanamideHydration.py' ('../hcn/rules/cyanamideHydration.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'cyanamideHydration.py' ('../hcn/rules/cyanamideHydration.py')
+Executing code from 'carbamylation.py' ('../hcn/rules/carbamylation.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'carbamylation.py' ('../hcn/rules/carbamylation.py')
+Executing code from 'cyanamidation.py' ('../hcn/rules/cyanamidation.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'cyanamidation.py' ('../hcn/rules/cyanamidation.py')
+Executing code from 'mannich.py' ('../hcn/rules/mannich.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'mannich.py' ('../hcn/rules/mannich.py')
+Executing code from 'amideFormationHydrolysis.py' ('../hcn/rules/amideFormationHydrolysis.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'amideFormationHydrolysis.py' ('../hcn/rules/amideFormationHydrolysis.py')
+Executing code from 'esterFormationHydrolysisExchange.py' ('../hcn/rules/esterFormationHydrolysisExchange.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'esterFormationHydrolysisExchange.py' ('../hcn/rules/esterFormationHydrolysisExchange.py')
+Executing code from 'alkeneAdditionElimination.py' ('../hcn/rules/alkeneAdditionElimination.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'alkeneAdditionElimination.py' ('../hcn/rules/alkeneAdditionElimination.py')
+Executing code from 'alkyneAddition.py' ('../hcn/rules/alkyneAddition.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'alkyneAddition.py' ('../hcn/rules/alkyneAddition.py')
+Executing code from 'cyanateFromCyanogen.py' ('../hcn/rules/cyanateFromCyanogen.py')
+End of code from 'cyanateFromCyanogen.py' ('../hcn/rules/cyanateFromCyanogen.py')
+Executing code from 'betaDecarboxylation2.py' ('../hcn/rules/betaDecarboxylation2.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'betaDecarboxylation2.py' ('../hcn/rules/betaDecarboxylation2.py')
+Executing code from 'transamination.py' ('../hcn/rules/transamination.py')
+End of code from 'transamination.py' ('../hcn/rules/transamination.py')
+Executing code from 'cannizarro1.py' ('../hcn/rules/cannizarro1.py')
+End of code from 'cannizarro1.py' ('../hcn/rules/cannizarro1.py')
+Executing code from 'cannizarro2.py' ('../hcn/rules/cannizarro2.py')
+End of code from 'cannizarro2.py' ('../hcn/rules/cannizarro2.py')
+Executing code from 'alphaKetoAcidDecarboxylation.py' ('../hcn/rules/alphaKetoAcidDecarboxylation.py')
+End of code from 'alphaKetoAcidDecarboxylation.py' ('../hcn/rules/alphaKetoAcidDecarboxylation.py')
+Executing code from 'ketoneCatalyzedDecarboxylation.py' ('../hcn/rules/ketoneCatalyzedDecarboxylation.py')
+End of code from 'ketoneCatalyzedDecarboxylation.py' ('../hcn/rules/ketoneCatalyzedDecarboxylation.py')
+Executing code from 'amadoriRearrangement.py' ('../hcn/rules/amadoriRearrangement.py')
+End of code from 'amadoriRearrangement.py' ('../hcn/rules/amadoriRearrangement.py')
+Executing code from 'streckerDegradation.py' ('../hcn/rules/streckerDegradation.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'streckerDegradation.py' ('../hcn/rules/streckerDegradation.py')
+Executing code from 'amideExchange.py' ('../hcn/rules/amideExchange.py')
+End of code from 'amideExchange.py' ('../hcn/rules/amideExchange.py')
+Executing code from 'thialThiene.py' ('../hcn/rules/thialThiene.py')
+End of code from 'thialThiene.py' ('../hcn/rules/thialThiene.py')
+Executing code from 'sulfideToNitrileAddition.py' ('../hcn/rules/sulfideToNitrileAddition.py')
+End of code from 'sulfideToNitrileAddition.py' ('../hcn/rules/sulfideToNitrileAddition.py')
+Executing code from 'amidineToAmideHydrolysis.py' ('../hcn/rules/amidineToAmideHydrolysis.py')
+End of code from 'amidineToAmideHydrolysis.py' ('../hcn/rules/amidineToAmideHydrolysis.py')
+Executing code from 'thioamidineToAmideHydrolysis.py' ('../hcn/rules/thioamidineToAmideHydrolysis.py')
+End of code from 'thioamidineToAmideHydrolysis.py' ('../hcn/rules/thioamidineToAmideHydrolysis.py')
+Executing code from 'ketoneAldehydeToThioketoneThial.py' ('../hcn/rules/ketoneAldehydeToThioketoneThial.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'ketoneAldehydeToThioketoneThial.py' ('../hcn/rules/ketoneAldehydeToThioketoneThial.py')
+Executing code from 'ringClosure.py' ('../hcn/rules/ringClosure.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'ringClosure.py' ('../hcn/rules/ringClosure.py')
+Executing code from 'hcnToKetone.py' ('../hcn/rules/hcnToKetone.py')
+End of code from 'hcnToKetone.py' ('../hcn/rules/hcnToKetone.py')
+Executing code from 'imineToCarbonyl.py' ('../hcn/rules/imineToCarbonyl.py')
+End of code from 'imineToCarbonyl.py' ('../hcn/rules/imineToCarbonyl.py')
+Executing code from 'imineToEnamine.py' ('../hcn/rules/imineToEnamine.py')
+End of code from 'imineToEnamine.py' ('../hcn/rules/imineToEnamine.py')
+Executing code from 'streckerDegradationDicarbonyl.py' ('../hcn/rules/streckerDegradationDicarbonyl.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'streckerDegradationDicarbonyl.py' ('../hcn/rules/streckerDegradationDicarbonyl.py')
+Executing code from 'schiffTautomerization.py' ('../hcn/rules/schiffTautomerization.py')
+End of code from 'schiffTautomerization.py' ('../hcn/rules/schiffTautomerization.py')
+Executing code from 'michaelAddition.py' ('../hcn/rules/michaelAddition.py')
+Executing code from 'common.py' ('../hcn/rules/common.py')
+Skipping inclusion (already included)
+End of code from 'common.py' ('../hcn/rules/common.py')
+End of code from 'michaelAddition.py' ('../hcn/rules/michaelAddition.py')
+Knoevenagel, H, CN, CN |, HC can not be inverted yet.
+Knoevenagel, H, CN, CN |, CC can not be inverted yet.
+Knoevenagel, H, CN, COOR, H |, HC can not be inverted yet.
+Knoevenagel, H, CN, COOR, H |, CC can not be inverted yet.
+Knoevenagel, H, CN, COOR, C |, HH can not be inverted yet.
+Knoevenagel, H, CN, COOR, C |, HC can not be inverted yet.
+Knoevenagel, H, CN, COOR, C |, CC can not be inverted yet.
+Knoevenagel, H, CN, CONRR, HH |, HC can not be inverted yet.
+Knoevenagel, H, CN, CONRR, HH |, CC can not be inverted yet.
+Knoevenagel, H, CN, CONRR, HC |, HH can not be inverted yet.
+Knoevenagel, H, CN, CONRR, HC |, HC can not be inverted yet.
+Knoevenagel, H, CN, CONRR, HC |, CC can not be inverted yet.
+Knoevenagel, H, CN, CONRR, CC |, HH can not be inverted yet.
+Knoevenagel, H, CN, CONRR, CC |, HC can not be inverted yet.
+Knoevenagel, H, CN, CONRR, CC |, CC can not be inverted yet.
+Knoevenagel, H, CN, NRR, HH |, HC can not be inverted yet.
+Knoevenagel, H, CN, NRR, HH |, CC can not be inverted yet.
+Knoevenagel, H, CN, NRR, HC |, HH can not be inverted yet.
+Knoevenagel, H, CN, NRR, HC |, HC can not be inverted yet.
+Knoevenagel, H, CN, NRR, HC |, CC can not be inverted yet.
+Knoevenagel, H, CN, NRR, CC |, HH can not be inverted yet.
+Knoevenagel, H, CN, NRR, CC |, HC can not be inverted yet.
+Knoevenagel, H, CN, NRR, CC |, CC can not be inverted yet.
+Knoevenagel, H, CN, OR, H |, HC can not be inverted yet.
+Knoevenagel, H, CN, OR, H |, CC can not be inverted yet.
+Knoevenagel, H, CN, OR, C |, HH can not be inverted yet.
+Knoevenagel, H, CN, OR, C |, HC can not be inverted yet.
+Knoevenagel, H, CN, OR, C |, CC can not be inverted yet.
+Knoevenagel, H, CN, C(=O)R, H |, HC can not be inverted yet.
+Knoevenagel, H, CN, C(=O)R, H |, CC can not be inverted yet.
+Knoevenagel, H, CN, C(=O)R, C |, HH can not be inverted yet.
+Knoevenagel, H, CN, C(=O)R, C |, HC can not be inverted yet.
+Knoevenagel, H, CN, C(=O)R, C |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, CN |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, CN |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, COOR, H |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, COOR, H |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, COOR, C |, HH can not be inverted yet.
+Knoevenagel, H, C(=O)A, COOR, C |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, COOR, C |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, CONRR, HH |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, CONRR, HH |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, CONRR, HC |, HH can not be inverted yet.
+Knoevenagel, H, C(=O)A, CONRR, HC |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, CONRR, HC |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, CONRR, CC |, HH can not be inverted yet.
+Knoevenagel, H, C(=O)A, CONRR, CC |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, CONRR, CC |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, NRR, HH |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, NRR, HH |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, NRR, HC |, HH can not be inverted yet.
+Knoevenagel, H, C(=O)A, NRR, HC |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, NRR, HC |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, NRR, CC |, HH can not be inverted yet.
+Knoevenagel, H, C(=O)A, NRR, CC |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, NRR, CC |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, OR, H |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, OR, H |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, OR, C |, HH can not be inverted yet.
+Knoevenagel, H, C(=O)A, OR, C |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, OR, C |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, C(=O)R, H |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, C(=O)R, H |, CC can not be inverted yet.
+Knoevenagel, H, C(=O)A, C(=O)R, C |, HH can not be inverted yet.
+Knoevenagel, H, C(=O)A, C(=O)R, C |, HC can not be inverted yet.
+Knoevenagel, H, C(=O)A, C(=O)R, C |, CC can not be inverted yet.
+Knoevenagel, C, CN, CN |, HH can not be inverted yet.
+Knoevenagel, C, CN, CN |, HC can not be inverted yet.
+Knoevenagel, C, CN, CN |, CC can not be inverted yet.
+Knoevenagel, C, CN, COOR, H |, HH can not be inverted yet.
+Knoevenagel, C, CN, COOR, H |, HC can not be inverted yet.
+Knoevenagel, C, CN, COOR, H |, CC can not be inverted yet.
+Knoevenagel, C, CN, COOR, C |, HH can not be inverted yet.
+Knoevenagel, C, CN, COOR, C |, HC can not be inverted yet.
+Knoevenagel, C, CN, COOR, C |, CC can not be inverted yet.
+Knoevenagel, C, CN, CONRR, HH |, HH can not be inverted yet.
+Knoevenagel, C, CN, CONRR, HH |, HC can not be inverted yet.
+Knoevenagel, C, CN, CONRR, HH |, CC can not be inverted yet.
+Knoevenagel, C, CN, CONRR, HC |, HH can not be inverted yet.
+Knoevenagel, C, CN, CONRR, HC |, HC can not be inverted yet.
+Knoevenagel, C, CN, CONRR, HC |, CC can not be inverted yet.
+Knoevenagel, C, CN, CONRR, CC |, HH can not be inverted yet.
+Knoevenagel, C, CN, CONRR, CC |, HC can not be inverted yet.
+Knoevenagel, C, CN, CONRR, CC |, CC can not be inverted yet.
+Knoevenagel, C, CN, NRR, HH |, HH can not be inverted yet.
+Knoevenagel, C, CN, NRR, HH |, HC can not be inverted yet.
+Knoevenagel, C, CN, NRR, HH |, CC can not be inverted yet.
+Knoevenagel, C, CN, NRR, HC |, HH can not be inverted yet.
+Knoevenagel, C, CN, NRR, HC |, HC can not be inverted yet.
+Knoevenagel, C, CN, NRR, HC |, CC can not be inverted yet.
+Knoevenagel, C, CN, NRR, CC |, HH can not be inverted yet.
+Knoevenagel, C, CN, NRR, CC |, HC can not be inverted yet.
+Knoevenagel, C, CN, NRR, CC |, CC can not be inverted yet.
+Knoevenagel, C, CN, OR, H |, HH can not be inverted yet.
+Knoevenagel, C, CN, OR, H |, HC can not be inverted yet.
+Knoevenagel, C, CN, OR, H |, CC can not be inverted yet.
+Knoevenagel, C, CN, OR, C |, HH can not be inverted yet.
+Knoevenagel, C, CN, OR, C |, HC can not be inverted yet.
+Knoevenagel, C, CN, OR, C |, CC can not be inverted yet.
+Knoevenagel, C, CN, C(=O)R, H |, HH can not be inverted yet.
+Knoevenagel, C, CN, C(=O)R, H |, HC can not be inverted yet.
+Knoevenagel, C, CN, C(=O)R, H |, CC can not be inverted yet.
+Knoevenagel, C, CN, C(=O)R, C |, HH can not be inverted yet.
+Knoevenagel, C, CN, C(=O)R, C |, HC can not be inverted yet.
+Knoevenagel, C, CN, C(=O)R, C |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, CN |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, CN |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, CN |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, COOR, H |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, COOR, H |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, COOR, H |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, COOR, C |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, COOR, C |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, COOR, C |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, CONRR, HH |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, CONRR, HH |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, CONRR, HH |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, CONRR, HC |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, CONRR, HC |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, CONRR, HC |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, CONRR, CC |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, CONRR, CC |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, CONRR, CC |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, NRR, HH |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, NRR, HH |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, NRR, HH |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, NRR, HC |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, NRR, HC |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, NRR, HC |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, NRR, CC |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, NRR, CC |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, NRR, CC |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, OR, H |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, OR, H |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, OR, H |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, OR, C |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, OR, C |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, OR, C |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, C(=O)R, H |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, C(=O)R, H |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, C(=O)R, H |, CC can not be inverted yet.
+Knoevenagel, C, C(=O)A, C(=O)R, C |, HH can not be inverted yet.
+Knoevenagel, C, C(=O)A, C(=O)R, C |, HC can not be inverted yet.
+Knoevenagel, C, C(=O)A, C(=O)R, C |, CC can not be inverted yet.
+Carbamylation, N, HC can not be inverted yet.
+Carbamylation, N, CC can not be inverted yet.
+Cyanamidation, N, HC can not be inverted yet.
+Cyanamidation, N, CC can not be inverted yet.
+Mannich H, HH, H, HC can not be inverted yet.
+Mannich H, HH, H, CC can not be inverted yet.
+Mannich H, HH, C, HH can not be inverted yet.
+Mannich H, HH, C, HC can not be inverted yet.
+Mannich H, HH, C, CC can not be inverted yet.
+Mannich H, HC, H, HH can not be inverted yet.
+Mannich H, HC, H, HC can not be inverted yet.
+Mannich H, HC, H, CC can not be inverted yet.
+Mannich H, HC, C, HH can not be inverted yet.
+Mannich H, HC, C, HC can not be inverted yet.
+Mannich H, HC, C, CC can not be inverted yet.
+Mannich H, CC, H, HH can not be inverted yet.
+Mannich H, CC, H, HC can not be inverted yet.
+Mannich H, CC, H, CC can not be inverted yet.
+Mannich H, CC, C, HH can not be inverted yet.
+Mannich H, CC, C, HC can not be inverted yet.
+Mannich H, CC, C, CC can not be inverted yet.
+Mannich Ar, HH, H, HH can not be inverted yet.
+Mannich Ar, HH, H, HC can not be inverted yet.
+Mannich Ar, HH, H, CC can not be inverted yet.
+Mannich Ar, HH, C, HH can not be inverted yet.
+Mannich Ar, HH, C, HC can not be inverted yet.
+Mannich Ar, HH, C, CC can not be inverted yet.
+Mannich Ar, HC, H, HH can not be inverted yet.
+Mannich Ar, HC, H, HC can not be inverted yet.
+Mannich Ar, HC, H, CC can not be inverted yet.
+Mannich Ar, HC, C, HH can not be inverted yet.
+Mannich Ar, HC, C, HC can not be inverted yet.
+Mannich Ar, HC, C, CC can not be inverted yet.
+Mannich Ar, CC, H, HH can not be inverted yet.
+Mannich Ar, CC, H, HC can not be inverted yet.
+Mannich Ar, CC, H, CC can not be inverted yet.
+Mannich Ar, CC, C, HH can not be inverted yet.
+Mannich Ar, CC, C, HC can not be inverted yet.
+Mannich Ar, CC, C, CC can not be inverted yet.
+Amide Formation Hydrolysis, H can not be inverted yet.
+Amide Formation Hydrolysis, C can not be inverted yet.
+Ester Formation Hydrolysis Exchange, H can not be inverted yet.
+Ester Formation Hydrolysis Exchange, C can not be inverted yet.
+Alkene Addition Elimination, O, C can not be inverted yet.
+Alkene Addition Elimination, N, HC can not be inverted yet.
+Alkene Addition Elimination, N, CC can not be inverted yet.
+Alkene Addition Elimination, S, C can not be inverted yet.
+Alkyne Addition, O, C can not be inverted yet.
+Alkyne Addition, N, HC can not be inverted yet.
+Alkyne Addition, N, CC can not be inverted yet.
+Alkyne Addition, S, C can not be inverted yet.
+Strecker Degradation, HC can not be inverted yet.
+Strecker Degradation, CC can not be inverted yet.
+Ketone/Aldehyde to Thioketone/Thial, HC can not be inverted yet.
+Ketone/Aldehyde to Thioketone/Thial, CC can not be inverted yet.
+Ring Closure 5, C-C-, C can not be inverted yet.
+Ring Closure 5, C-C-, HC can not be inverted yet.
+Ring Closure 5, C-C-, CC can not be inverted yet.
+Ring Closure 5, C-C-, C can not be inverted yet.
+Ring Closure 5, C-C-, H, C can not be inverted yet.
+Ring Closure 5, C-C-, H, HC can not be inverted yet.
+Ring Closure 5, C-C-, H, CC can not be inverted yet.
+Ring Closure 5, C-C-, H, C can not be inverted yet.
+Ring Closure 5, C-C-, C, H can not be inverted yet.
+Ring Closure 5, C-C-, C, C can not be inverted yet.
+Ring Closure 5, C-C-, C, HH can not be inverted yet.
+Ring Closure 5, C-C-, C, HC can not be inverted yet.
+Ring Closure 5, C-C-, C, CC can not be inverted yet.
+Ring Closure 5, C-C-, C, H can not be inverted yet.
+Ring Closure 5, C-C-, C, C can not be inverted yet.
+Ring Closure 5, C-C-, C can not be inverted yet.
+Ring Closure 5, C-C-, HC can not be inverted yet.
+Ring Closure 5, C-C-, CC can not be inverted yet.
+Ring Closure 5, C-C-, C can not be inverted yet.
+Ring Closure 6, C-C-C-, C can not be inverted yet.
+Ring Closure 6, C-C-C-, HC can not be inverted yet.
+Ring Closure 6, C-C-C-, CC can not be inverted yet.
+Ring Closure 6, C-C-C-, C can not be inverted yet.
+Ring Closure 6, C-C-C-, H, C can not be inverted yet.
+Ring Closure 6, C-C-C-, H, HC can not be inverted yet.
+Ring Closure 6, C-C-C-, H, CC can not be inverted yet.
+Ring Closure 6, C-C-C-, H, C can not be inverted yet.
+Ring Closure 6, C-C-C-, C, H can not be inverted yet.
+Ring Closure 6, C-C-C-, C, C can not be inverted yet.
+Ring Closure 6, C-C-C-, C, HH can not be inverted yet.
+Ring Closure 6, C-C-C-, C, HC can not be inverted yet.
+Ring Closure 6, C-C-C-, C, CC can not be inverted yet.
+Ring Closure 6, C-C-C-, C, H can not be inverted yet.
+Ring Closure 6, C-C-C-, C, C can not be inverted yet.
+Ring Closure 6, C-C-C-, C can not be inverted yet.
+Ring Closure 6, C-C-C-, HC can not be inverted yet.
+Ring Closure 6, C-C-C-, CC can not be inverted yet.
+Ring Closure 6, C-C-C-, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, H, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, H, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, H, C, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, H, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, H, C, C, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, H, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, H, C, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, H, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, H, C can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, C, H can not be inverted yet.
+Strecker Degradation Dicarbonyl, C, C, C, C can not be inverted yet.
+Michael Addition  1, H, O, C can not be inverted yet.
+Michael Addition  1, H, N, HC can not be inverted yet.
+Michael Addition  1, H, N, CC can not be inverted yet.
+Michael Addition  1, H, S, C can not be inverted yet.
+Michael Addition  1, C, O, H can not be inverted yet.
+Michael Addition  1, C, O, C can not be inverted yet.
+Michael Addition  1, C, N, HH can not be inverted yet.
+Michael Addition  1, C, N, HC can not be inverted yet.
+Michael Addition  1, C, N, CC can not be inverted yet.
+Michael Addition  1, C, S, H can not be inverted yet.
+Michael Addition  1, C, S, C can not be inverted yet.
+Michael Addition  1, C, C can not be inverted yet.
+Michael Addition  2, H, O, C can not be inverted yet.
+Michael Addition  2, H, N, HC can not be inverted yet.
+Michael Addition  2, H, N, CC can not be inverted yet.
+Michael Addition  2, H, S, C can not be inverted yet.
+Michael Addition  2, C, O, H can not be inverted yet.
+Michael Addition  2, C, O, C can not be inverted yet.
+Michael Addition  2, C, N, HH can not be inverted yet.
+Michael Addition  2, C, N, HC can not be inverted yet.
+Michael Addition  2, C, N, CC can not be inverted yet.
+Michael Addition  2, C, S, H can not be inverted yet.
+Michael Addition  2, C, S, C can not be inverted yet.
+Michael Addition  2, C, C can not be inverted yet.
+Michael Addition  3, H, H, COOR, C can not be inverted yet.
+Michael Addition  3, H, H, CONRR, HC can not be inverted yet.
+Michael Addition  3, H, H, CONRR, CC can not be inverted yet.
+Michael Addition  3, H, H, NRR, HC can not be inverted yet.
+Michael Addition  3, H, H, NRR, CC can not be inverted yet.
+Michael Addition  3, H, H, OR, C can not be inverted yet.
+Michael Addition  3, H, H, C(=O)R, C can not be inverted yet.
+Michael Addition  3, H, C, CN can not be inverted yet.
+Michael Addition  3, H, C, COOR, H can not be inverted yet.
+Michael Addition  3, H, C, COOR, C can not be inverted yet.
+Michael Addition  3, H, C, CONRR, HH can not be inverted yet.
+Michael Addition  3, H, C, CONRR, HC can not be inverted yet.
+Michael Addition  3, H, C, CONRR, CC can not be inverted yet.
+Michael Addition  3, H, C, NRR, HH can not be inverted yet.
+Michael Addition  3, H, C, NRR, HC can not be inverted yet.
+Michael Addition  3, H, C, NRR, CC can not be inverted yet.
+Michael Addition  3, H, C, OR, H can not be inverted yet.
+Michael Addition  3, H, C, OR, C can not be inverted yet.
+Michael Addition  3, H, C, C(=O)R, H can not be inverted yet.
+Michael Addition  3, H, C, C(=O)R, C can not be inverted yet.
+Michael Addition  3, C, H, CN can not be inverted yet.
+Michael Addition  3, C, H, COOR, H can not be inverted yet.
+Michael Addition  3, C, H, COOR, C can not be inverted yet.
+Michael Addition  3, C, H, CONRR, HH can not be inverted yet.
+Michael Addition  3, C, H, CONRR, HC can not be inverted yet.
+Michael Addition  3, C, H, CONRR, CC can not be inverted yet.
+Michael Addition  3, C, H, NRR, HH can not be inverted yet.
+Michael Addition  3, C, H, NRR, HC can not be inverted yet.
+Michael Addition  3, C, H, NRR, CC can not be inverted yet.
+Michael Addition  3, C, H, OR, H can not be inverted yet.
+Michael Addition  3, C, H, OR, C can not be inverted yet.
+Michael Addition  3, C, H, C(=O)R, H can not be inverted yet.
+Michael Addition  3, C, H, C(=O)R, C can not be inverted yet.
+Michael Addition  3, C, C, CN can not be inverted yet.
+Michael Addition  3, C, C, COOR, H can not be inverted yet.
+Michael Addition  3, C, C, COOR, C can not be inverted yet.
+Michael Addition  3, C, C, CONRR, HH can not be inverted yet.
+Michael Addition  3, C, C, CONRR, HC can not be inverted yet.
+Michael Addition  3, C, C, CONRR, CC can not be inverted yet.
+Michael Addition  3, C, C, NRR, HH can not be inverted yet.
+Michael Addition  3, C, C, NRR, HC can not be inverted yet.
+Michael Addition  3, C, C, NRR, CC can not be inverted yet.
+Michael Addition  3, C, C, OR, H can not be inverted yet.
+Michael Addition  3, C, C, OR, C can not be inverted yet.
+Michael Addition  3, C, C, C(=O)R, H can not be inverted yet.
+Michael Addition  3, C, C, C(=O)R, C can not be inverted yet.
+Michael Addition  4, H, H, COOR, C can not be inverted yet.
+Michael Addition  4, H, H, CONRR, HC can not be inverted yet.
+Michael Addition  4, H, H, CONRR, CC can not be inverted yet.
+Michael Addition  4, H, H, NRR, HC can not be inverted yet.
+Michael Addition  4, H, H, NRR, CC can not be inverted yet.
+Michael Addition  4, H, H, OR, C can not be inverted yet.
+Michael Addition  4, H, H, C(=O)R, C can not be inverted yet.
+Michael Addition  4, H, C, CN can not be inverted yet.
+Michael Addition  4, H, C, COOR, H can not be inverted yet.
+Michael Addition  4, H, C, COOR, C can not be inverted yet.
+Michael Addition  4, H, C, CONRR, HH can not be inverted yet.
+Michael Addition  4, H, C, CONRR, HC can not be inverted yet.
+Michael Addition  4, H, C, CONRR, CC can not be inverted yet.
+Michael Addition  4, H, C, NRR, HH can not be inverted yet.
+Michael Addition  4, H, C, NRR, HC can not be inverted yet.
+Michael Addition  4, H, C, NRR, CC can not be inverted yet.
+Michael Addition  4, H, C, OR, H can not be inverted yet.
+Michael Addition  4, H, C, OR, C can not be inverted yet.
+Michael Addition  4, H, C, C(=O)R, H can not be inverted yet.
+Michael Addition  4, H, C, C(=O)R, C can not be inverted yet.
+Michael Addition  4, C, H, CN can not be inverted yet.
+Michael Addition  4, C, H, COOR, H can not be inverted yet.
+Michael Addition  4, C, H, COOR, C can not be inverted yet.
+Michael Addition  4, C, H, CONRR, HH can not be inverted yet.
+Michael Addition  4, C, H, CONRR, HC can not be inverted yet.
+Michael Addition  4, C, H, CONRR, CC can not be inverted yet.
+Michael Addition  4, C, H, NRR, HH can not be inverted yet.
+Michael Addition  4, C, H, NRR, HC can not be inverted yet.
+Michael Addition  4, C, H, NRR, CC can not be inverted yet.
+Michael Addition  4, C, H, OR, H can not be inverted yet.
+Michael Addition  4, C, H, OR, C can not be inverted yet.
+Michael Addition  4, C, H, C(=O)R, H can not be inverted yet.
+Michael Addition  4, C, H, C(=O)R, C can not be inverted yet.
+Michael Addition  4, C, C, CN can not be inverted yet.
+Michael Addition  4, C, C, COOR, H can not be inverted yet.
+Michael Addition  4, C, C, COOR, C can not be inverted yet.
+Michael Addition  4, C, C, CONRR, HH can not be inverted yet.
+Michael Addition  4, C, C, CONRR, HC can not be inverted yet.
+Michael Addition  4, C, C, CONRR, CC can not be inverted yet.
+Michael Addition  4, C, C, NRR, HH can not be inverted yet.
+Michael Addition  4, C, C, NRR, HC can not be inverted yet.
+Michael Addition  4, C, C, NRR, CC can not be inverted yet.
+Michael Addition  4, C, C, OR, H can not be inverted yet.
+Michael Addition  4, C, C, OR, C can not be inverted yet.
+Michael Addition  4, C, C, C(=O)R, H can not be inverted yet.
+Michael Addition  4, C, C, C(=O)R, C can not be inverted yet.
+End of code from '../hcn/rules/all.py'
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+Repeat, limit = 1
+  Round 1:
+  Round 1: Result subset has 11 graphs.
+
+MY OWN SUMMARY:
+TOTAL MOLECULES: 13
+INITIAL MOLECULES: 2
+MOLECULES GENERATED: 11 
+
+C(C1C(C(C(C(O)O1)O)O)O)O
+O
+C=C1C(C(C(C(O)O1)O)O)O
+C1C(C(C(O)OC=1CO)O)O
+C1(O)OC(CO)C(C(C=1)O)O
+C1OC(CO)C(C(C=1O)O)O
+C1C(C(CO)OC(C=1O)O)O
+C1(C(C(CO)OC(C=1)O)O)O
+C1(C(C(OC(C=1)CO)O)O)O
+C1C(C(OC(C=1O)CO)O)O
+C(O)=C(C(C(C(CO)O)O)O)O
+C(C(C(C(O)O)O)O)(O)=CCO
+C(O)=CC(C(C(C(O)O)O)O)O
+End of code from 'glucose2.py'
+
+real	0m0.893s
+user	0m0.838s
+sys	0m0.051s
