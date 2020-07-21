@@ -1,0 +1,3 @@
+\babel@toc {english}{}
+\contentsline {subsection}{\numberline {0.0.1}Keto-enol}{2}{subsection.0.0.1}
+\contentsline {subsection}{\numberline {0.0.2}Keto-enol, inverse}{2}{subsection.0.0.2}

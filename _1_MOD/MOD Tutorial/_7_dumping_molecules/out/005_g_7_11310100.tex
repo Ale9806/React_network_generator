@@ -1,0 +1,20 @@
+\begin{tikzpicture}[remember picture, scale=\modGraphScale, baseline={([yshift={-0.5ex}]current bounding box)}, solid]
+\input{\modInputPrefix/out/005_g_7_mol_coord.tex}
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-0)] (\modIdPrefix v-0) {};
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-3)] (\modIdPrefix v-3) {};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-4)] (\modIdPrefix v-4) {O};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-4.east), anchor=west] (\modIdPrefix v-4-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-4-aux)] {\phantom{H}};
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-6)] (\modIdPrefix v-6) {};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-8)] (\modIdPrefix v-8) {O};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-8.west), anchor=east] (\modIdPrefix v-8-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-8-aux)] {\phantom{H}};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-10)] (\modIdPrefix v-10) {O};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-10.east), anchor=west] (\modIdPrefix v-10-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-10-aux)] {\phantom{H}};
+\modDrawSingleBond{3}{4}{0}{1}{}{}
+\modDrawSingleBond{0}{3}{0}{0}{}{}
+\modDrawDoubleBond{3}{6}{0}{0}{}{}
+\modDrawSingleBond{6}{8}{0}{1}{}{}
+\modDrawSingleBond{0}{10}{0}{1}{}{}
+\end{tikzpicture}

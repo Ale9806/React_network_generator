@@ -1,0 +1,16 @@
+graph 1 7.0235 5.1691
+node "0-0" 3.7847 4.4663 0.9027 0.5 "g_{0}" solid ellipse black lightgrey
+node "1-0" 6.527 4.9191 0.99297 0.5 "g_{1}" solid ellipse black lightgrey
+node "2-0" 5.5445 2.3333 0.9027 0.5 "g_{2}" solid ellipse black lightgrey
+node "4-0" 0.81514 2.5651 1.6303 0.56961 "g_{3}" solid ellipse black lightgrey
+node "5-0" 3.5574 3.0178 1.3902 0.5 "g_{4}" solid ellipse black lightgrey
+node "6-0" 2.575 0.43212 2.1606 0.86424 "g_{5}" solid ellipse black lightgrey
+node "3-0" 5.2847 3.9117 0.75 0.5 "" solid box black lightgrey
+node "7-0" 2.3151 2.0105 0.75 0.5 "" solid box black lightgrey
+edge "0-0" "3-0" 4 4.1632 4.3263 4.3479 4.258 4.5729 4.1748 4.7728 4.101 solid black
+edge "1-0" "3-0" 4 6.2635 4.7054 6.1019 4.5744 5.8913 4.4036 5.7068 4.254 solid black
+edge "4-0" "7-0" 4 1.3779 2.357 1.5176 2.3053 1.6665 2.2503 1.8036 2.1996 solid black
+edge "5-0" "7-0" 4 3.2755 2.7893 3.117 2.6607 2.9159 2.4976 2.7387 2.354 solid black
+edge "3-0" "2-0" 4 5.3258 3.6616 5.3672 3.4103 5.4316 3.0192 5.4798 2.7263 solid black
+edge "7-0" "6-0" 4 2.3563 1.7604 2.3896 1.558 2.4379 1.2649 2.4806 1.0055 solid black
+stop

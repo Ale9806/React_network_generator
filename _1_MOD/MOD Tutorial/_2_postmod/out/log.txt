@@ -1,0 +1,7 @@
+Running VM ---------------------------------------------------------
+Executing code from 'postmod.py'
+End of code from 'postmod.py'
+
+real	0m0.083s
+user	0m0.067s
+sys	0m0.016s

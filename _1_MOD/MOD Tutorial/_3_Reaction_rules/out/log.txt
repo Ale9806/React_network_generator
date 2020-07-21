@@ -1,0 +1,13 @@
+Running VM ---------------------------------------------------------
+Executing code from '_3_reaction_rule.py'
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+End of code from '_3_reaction_rule.py'
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds D = 1.
+
+real	0m0.186s
+user	0m0.168s
+sys	0m0.017s

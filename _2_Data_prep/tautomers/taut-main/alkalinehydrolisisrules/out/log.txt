@@ -1,0 +1,12 @@
+Running VM ---------------------------------------------------------
+Executing code from 'glucose4_simple (copy).py'
+Traceback (most recent call last):
+  File "out/input", line 56, in <module>
+    include("glucose4_simple (copy).py")
+  File "out/input", line 28, in include
+    ino = os.stat(fPrefixed).st_ino
+FileNotFoundError: [Errno 2] No such file or directory: 'glucose4_simple (copy).py'
+
+real	0m0.164s
+user	0m0.123s
+sys	0m0.016s
