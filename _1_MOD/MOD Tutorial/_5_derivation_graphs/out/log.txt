@@ -1,0 +1,17 @@
+Running VM ---------------------------------------------------------
+Executing code from '_5_derivation_graphs.py'
+['Keto-enol'(0), 'Keto-enol, inverse'(1)]
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds D = 1.
+Repeat, limit = 2
+  Round 1:
+  Round 1: Result subset has 0 graphs.
+End of code from '_5_derivation_graphs.py'
+
+real	0m0.167s
+user	0m0.147s
+sys	0m0.017s

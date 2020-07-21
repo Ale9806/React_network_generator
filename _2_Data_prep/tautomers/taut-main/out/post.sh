@@ -1,0 +1,8 @@
+summarySection "Input MOLECULES"
+summarySection "Input Molecules"
+compileTikz "out/000_g_0_10300000" "out/000_g_0_coord"
+compileTikz "out/000_g_0_11310100" "out/000_g_0_mol_coord"
+summaryGraph "Glucose" "out/000_g_0_10300000" "out/000_g_0_11310100"
+compileTikz "out/001_g_1_10300000" "out/001_g_1_coord"
+compileTikz "out/001_g_1_11310100" "out/001_g_1_mol_coord"
+summaryGraph "water" "out/001_g_1_10300000" "out/001_g_1_11310100"

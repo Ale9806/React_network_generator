@@ -1,0 +1,14 @@
+Running VM ---------------------------------------------------------
+Executing code from '_4_networks.py'
+['Keto-enol'(0), 'Keto-enol, inverse'(1)]
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds D = 1.
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds S = 2.
+End of code from '_4_networks.py'
+WARNING: No viable geometries for O with bonds S = 2.
+WARNING: No viable geometries for O with bonds D = 1.
+
+real	0m0.162s
+user	0m0.137s
+sys	0m0.025s

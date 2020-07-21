@@ -1,0 +1,24 @@
+Running VM ---------------------------------------------------------
+Executing code from '_5_bg_and_networks.py'
+Executing code from 'rules.py'
+End of code from 'rules.py'
+Repeat, limit = 4294967295
+  Round 1:
+  Round 1: Result subset has 1 graphs.
+  Round 2:
+  Round 2: Result subset has 2 graphs.
+  Round 3:
+  Round 3: Result subset has 4 graphs.
+  Round 4:
+  Round 4: Result subset has 12 graphs.
+  Round 5:
+  Round 5: Result subset has 9 graphs.
+  Round 6:
+  Round 6: Result subset has 7 graphs.
+  Round 7:
+  Round 7: Result subset has 0 graphs.
+End of code from '_5_bg_and_networks.py'
+
+real	0m1.038s
+user	0m0.967s
+sys	0m0.068s

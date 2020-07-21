@@ -1,0 +1,7 @@
+Running VM ---------------------------------------------------------
+Executing code from 'ruless.py'
+End of code from 'ruless.py'
+
+real	0m0.864s
+user	0m0.722s
+sys	0m0.129s

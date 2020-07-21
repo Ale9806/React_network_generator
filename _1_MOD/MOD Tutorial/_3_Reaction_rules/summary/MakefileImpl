@@ -1,0 +1,21 @@
+
+out/001_r_0_10300010_L.pdf: out/000_r_0_coord.tex out/001_r_0_10300010_L.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/001_r_0_10300010_L" "out/000_r_0_coord" 1
+out/001_r_0_10300010_K.pdf: out/000_r_0_coord.tex out/001_r_0_10300010_K.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/001_r_0_10300010_K" "out/000_r_0_coord" 1
+out/001_r_0_10300010_R.pdf: out/000_r_0_coord.tex out/001_r_0_10300010_R.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/001_r_0_10300010_R" "out/000_r_0_coord" 1
+out/002_r_0_combined.svg: out/002_r_0_combined.dot
+	/usr/local/bin/../bin/mod_post --mode gv ruleCombined "out/002_r_0_combined" svg ""
+out/002_r_0_combined.pdf: out/002_r_0_combined.svg
+	/usr/local/bin/../bin/mod_post --mode svgToPdf "out/002_r_0_combined.svg" "out/002_r_0_combined.pdf"
+out/005_r_1_10300010_L.pdf: out/004_r_1_coord.tex out/005_r_1_10300010_L.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/005_r_1_10300010_L" "out/004_r_1_coord" 1
+out/005_r_1_10300010_K.pdf: out/004_r_1_coord.tex out/005_r_1_10300010_K.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/005_r_1_10300010_K" "out/004_r_1_coord" 1
+out/005_r_1_10300010_R.pdf: out/004_r_1_coord.tex out/005_r_1_10300010_R.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/005_r_1_10300010_R" "out/004_r_1_coord" 1
+out/006_r_1_combined.svg: out/006_r_1_combined.dot
+	/usr/local/bin/../bin/mod_post --mode gv ruleCombined "out/006_r_1_combined" svg ""
+out/006_r_1_combined.pdf: out/006_r_1_combined.svg
+	/usr/local/bin/../bin/mod_post --mode svgToPdf "out/006_r_1_combined.svg" "out/006_r_1_combined.pdf"

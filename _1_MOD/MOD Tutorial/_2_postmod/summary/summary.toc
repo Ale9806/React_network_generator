@@ -1,0 +1,4 @@
+\babel@toc {english}{}
+\contentsline {subsection}{\numberline {0.0.1}\texttt {HCN}}{2}{subsection.0.0.1}
+\contentsline {subsection}{\numberline {0.0.2}\texttt {H3CHCN}}{2}{subsection.0.0.2}
+\contentsline {subsection}{\numberline {0.0.3}\texttt {HN}}{2}{subsection.0.0.3}

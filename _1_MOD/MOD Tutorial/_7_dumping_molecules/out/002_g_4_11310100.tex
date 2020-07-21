@@ -1,0 +1,14 @@
+\begin{tikzpicture}[remember picture, scale=\modGraphScale, baseline={([yshift={-0.5ex}]current bounding box)}, solid]
+\input{\modInputPrefix/out/002_g_4_mol_coord.tex}
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-0)] (\modIdPrefix v-0) {O};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-0.east), anchor=west] (\modIdPrefix v-0-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-0-aux)] {\phantom{H}};
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-1)] (\modIdPrefix v-1) {};
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-3)] (\modIdPrefix v-3) {};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-5)] (\modIdPrefix v-5) {O};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-5.west), anchor=east] (\modIdPrefix v-5-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-5-aux)] {\phantom{H}};
+\modDrawSingleBond{0}{1}{1}{0}{}{}
+\modDrawDoubleBond{1}{3}{0}{0}{}{}
+\modDrawSingleBond{3}{5}{0}{1}{}{}
+\end{tikzpicture}

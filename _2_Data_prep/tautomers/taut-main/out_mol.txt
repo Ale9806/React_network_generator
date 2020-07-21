@@ -1,0 +1,1 @@
+"C(C1C(C(C(C(O)O1)O)O)O)O","O","C=C1C(C(C(C(O)O1)O)O)O","C1C(C(C(O)OC=1CO)O)O","C1(O)OC(CO)C(C(C=1)O)O","C1OC(CO)C(C(C=1O)O)O","C1C(C(CO)OC(C=1O)O)O","C1(C(C(CO)OC(C=1)O)O)O","C1(C(C(OC(C=1)CO)O)O)O","C1C(C(OC(C=1O)CO)O)O","C(O)=C(C(C(C(CO)O)O)O)O","C(C(C(C(O)O)O)O)(O)=CCO","C(O)=CC(C(C(C(O)O)O)O)O"

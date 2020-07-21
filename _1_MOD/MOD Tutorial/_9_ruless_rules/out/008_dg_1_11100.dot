@@ -1,0 +1,26 @@
+digraph g {
+
+// id = 0, graphName = A
+"0-0" [ shape=ellipse label="A" image="out/009_g_7_11311100.svg" ];
+// id = 1, graphName = B
+"1-0" [ shape=ellipse label="B" image="out/010_g_8_11311100.svg" ];
+// id = 2, graphName = C
+"2-0" [ shape=ellipse label="C" image="out/011_g_9_11311100.svg" ];
+// id = 5, graphName = D
+"5-0" [ shape=ellipse label="D" image="out/012_g_10_11311100.svg" ];
+// id = 3{ 'A' 'B' }, { 'C' }
+"3-0" [ shape=box label="" ];
+// id = 6{ 'A' 'C' 'D' }, { 'B' }
+"6-0" [ shape=box label="" ];
+// id = 3{ 'A' 'B' }, { 'C' }
+"0-0" -> "3-0" [ ];
+"1-0" -> "3-0" [ ];
+"3-0" -> "2-0" [ ];
+// id = 4{ 'C' }, { 'B' }
+"2-0" -> "1-0" [ label="" ];
+// id = 6{ 'A' 'C' 'D' }, { 'B' }
+"0-0" -> "6-0" [ ];
+"2-0" -> "6-0" [ ];
+"5-0" -> "6-0" [ ];
+"6-0" -> "1-0" [ ];
+}

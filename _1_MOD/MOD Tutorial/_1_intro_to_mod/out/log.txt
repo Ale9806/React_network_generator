@@ -1,0 +1,9 @@
+Running VM ---------------------------------------------------------
+Executing code from '_1_intro_to_mod.py'
+CCCC
+ IT DOES WORK WITH RDKIT
+End of code from '_1_intro_to_mod.py'
+
+real	0m0.346s
+user	0m0.334s
+sys	0m0.207s

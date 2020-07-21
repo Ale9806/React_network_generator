@@ -1,0 +1,30 @@
+\begin{tikzpicture}[remember picture, scale=\modGraphScale, baseline={([yshift={-0.5ex}]current bounding box)}, solid]
+\input{\modInputPrefix/out/016_g_18_mol_coord.tex}
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-0)] (\modIdPrefix v-0) {};
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-3)] (\modIdPrefix v-3) {};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-4)] (\modIdPrefix v-4) {O};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-4.east), anchor=west] (\modIdPrefix v-4-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-4-aux)] {\phantom{H}};
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-6)] (\modIdPrefix v-6) {};
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-7)] (\modIdPrefix v-7) {};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-8)] (\modIdPrefix v-8) {O};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-8.east), anchor=west] (\modIdPrefix v-8-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-8-aux)] {\phantom{H}};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-13)] (\modIdPrefix v-13) {O};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-13.east), anchor=west] (\modIdPrefix v-13-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-13-aux)] {\phantom{H}};
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-15)] (\modIdPrefix v-15) {};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-17)] (\modIdPrefix v-17) {O};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-coord-18)] (\modIdPrefix v-18) {O};
+\node[modStyleGraphVertex, text=red, at=(\modIdPrefix v-18.west), anchor=east] (\modIdPrefix v-18-aux) {H};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-18-aux)] {\phantom{H}};
+\modDrawSingleBond{3}{4}{0}{1}{}{}
+\modDrawSingleBond{7}{8}{0}{1}{}{}
+\modDrawSingleBond{6}{7}{0}{0}{}{}
+\modDrawSingleBond{3}{6}{0}{0}{}{}
+\modDrawSingleBond{6}{13}{0}{1}{}{}
+\modDrawSingleBond{0}{3}{0}{0}{}{}
+\modDrawSingleBond{3}{15}{0}{0}{}{}
+\modDrawDoubleBond{15}{17}{0}{1}{}{}
+\modDrawSingleBond{0}{18}{0}{1}{}{}
+\end{tikzpicture}

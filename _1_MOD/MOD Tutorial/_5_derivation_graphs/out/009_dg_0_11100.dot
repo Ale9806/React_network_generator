@@ -1,0 +1,11 @@
+digraph g {
+
+// id = 0, graphName = glycolaldehyde
+"0-0" [ shape=ellipse label="glycolaldehyde" image="out/008_g_0_11311100.svg" ];
+// id = 1, graphName = p_{0,0}
+"1-0" [ shape=ellipse label="p_{0,0}" image="out/010_g_1_11311100.svg" ];
+// id = 2{ 'glycolaldehyde' }, 'Keto-enol', { 'p_{0,0}' }
+"0-0" -> "1-0" [ label="r_{0}" ];
+// id = 3{ 'p_{0,0}' }, 'Keto-enol, inverse', { 'glycolaldehyde' }
+"1-0" -> "0-0" [ label="r_{1}" ];
+}

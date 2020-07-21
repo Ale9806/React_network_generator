@@ -1,0 +1,53 @@
+
+out/001_g_0_11311100.pdf: out/001_g_0_mol_coord.tex out/001_g_0_11311100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/001_g_0_11311100" "out/001_g_0_mol_coord" 1
+out/001_g_0_11311100.svg: out/001_g_0_11311100.pdf
+	/usr/local/bin/../bin/mod_post --mode pdfToSvg "out/001_g_0_11311100" "out/001_g_0_11311100"
+out/002_g_1_11311100.pdf: out/002_g_1_mol_coord.tex out/002_g_1_11311100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/002_g_1_11311100" "out/002_g_1_mol_coord" 1
+out/002_g_1_11311100.svg: out/002_g_1_11311100.pdf
+	/usr/local/bin/../bin/mod_post --mode pdfToSvg "out/002_g_1_11311100" "out/002_g_1_11311100"
+out/003_g_2_11311100.pdf: out/003_g_2_mol_coord.tex out/003_g_2_11311100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/003_g_2_11311100" "out/003_g_2_mol_coord" 1
+out/003_g_2_11311100.svg: out/003_g_2_11311100.pdf
+	/usr/local/bin/../bin/mod_post --mode pdfToSvg "out/003_g_2_11311100" "out/003_g_2_11311100"
+out/004_g_3_11311100.pdf: out/004_g_3_mol_coord.tex out/004_g_3_11311100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/004_g_3_11311100" "out/004_g_3_mol_coord" 1
+out/004_g_3_11311100.svg: out/004_g_3_11311100.pdf
+	/usr/local/bin/../bin/mod_post --mode pdfToSvg "out/004_g_3_11311100" "out/004_g_3_11311100"
+out/005_g_4_11311100.pdf: out/005_g_4_mol_coord.tex out/005_g_4_11311100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/005_g_4_11311100" "out/005_g_4_mol_coord" 1
+out/005_g_4_11311100.svg: out/005_g_4_11311100.pdf
+	/usr/local/bin/../bin/mod_post --mode pdfToSvg "out/005_g_4_11311100" "out/005_g_4_11311100"
+out/006_g_5_11311100.pdf: out/006_g_5_mol_coord.tex out/006_g_5_11311100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/006_g_5_11311100" "out/006_g_5_mol_coord" 1
+out/006_g_5_11311100.svg: out/006_g_5_11311100.pdf
+	/usr/local/bin/../bin/mod_post --mode pdfToSvg "out/006_g_5_11311100" "out/006_g_5_11311100"
+out/000_dg_0_11100_coord.tex: out/001_g_0_11311100.svg out/002_g_1_11311100.svg out/003_g_2_11311100.svg out/004_g_3_11311100.svg out/005_g_4_11311100.svg out/006_g_5_11311100.svg
+	/usr/local/bin/../bin/mod_post --mode coordsFromGV dgHyper "out/000_dg_0_11100" 
+out/000_dg_0_11100.plain: out/000_dg_0_11100_coord.tex out/001_g_0_11311100.svg out/002_g_1_11311100.svg out/003_g_2_11311100.svg out/004_g_3_11311100.svg out/005_g_4_11311100.svg out/006_g_5_11311100.svg
+	/usr/local/bin/../bin/mod_post --mode coordsFromGV dgHyper "out/000_dg_0_11100" 
+out/007_dg_0_11100.pdf: out/000_dg_0_11100_coord.tex out/007_dg_0_11100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/007_dg_0_11100" "out/000_dg_0_11100_coord" 1
+out/009_g_7_11311100.pdf: out/009_g_7_mol_coord.tex out/009_g_7_11311100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/009_g_7_11311100" "out/009_g_7_mol_coord" 1
+out/009_g_7_11311100.svg: out/009_g_7_11311100.pdf
+	/usr/local/bin/../bin/mod_post --mode pdfToSvg "out/009_g_7_11311100" "out/009_g_7_11311100"
+out/010_g_8_11311100.pdf: out/010_g_8_mol_coord.tex out/010_g_8_11311100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/010_g_8_11311100" "out/010_g_8_mol_coord" 1
+out/010_g_8_11311100.svg: out/010_g_8_11311100.pdf
+	/usr/local/bin/../bin/mod_post --mode pdfToSvg "out/010_g_8_11311100" "out/010_g_8_11311100"
+out/011_g_9_11311100.pdf: out/011_g_9_mol_coord.tex out/011_g_9_11311100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/011_g_9_11311100" "out/011_g_9_mol_coord" 1
+out/011_g_9_11311100.svg: out/011_g_9_11311100.pdf
+	/usr/local/bin/../bin/mod_post --mode pdfToSvg "out/011_g_9_11311100" "out/011_g_9_11311100"
+out/012_g_10_11311100.pdf: out/012_g_10_mol_coord.tex out/012_g_10_11311100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/012_g_10_11311100" "out/012_g_10_mol_coord" 1
+out/012_g_10_11311100.svg: out/012_g_10_11311100.pdf
+	/usr/local/bin/../bin/mod_post --mode pdfToSvg "out/012_g_10_11311100" "out/012_g_10_11311100"
+out/008_dg_1_11100_coord.tex: out/009_g_7_11311100.svg out/010_g_8_11311100.svg out/011_g_9_11311100.svg out/012_g_10_11311100.svg
+	/usr/local/bin/../bin/mod_post --mode coordsFromGV dgHyper "out/008_dg_1_11100" 
+out/008_dg_1_11100.plain: out/008_dg_1_11100_coord.tex out/009_g_7_11311100.svg out/010_g_8_11311100.svg out/011_g_9_11311100.svg out/012_g_10_11311100.svg
+	/usr/local/bin/../bin/mod_post --mode coordsFromGV dgHyper "out/008_dg_1_11100" 
+out/013_dg_1_11100.pdf: out/008_dg_1_11100_coord.tex out/013_dg_1_11100.tex
+	/usr/local/bin/../bin/mod_post --mode compileTikz "out/013_dg_1_11100" "out/008_dg_1_11100_coord" 1

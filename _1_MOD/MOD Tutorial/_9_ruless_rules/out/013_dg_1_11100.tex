@@ -1,0 +1,26 @@
+\begin{tikzpicture}[remember picture, scale=\modDGHyperScale]
+\input{\modInputPrefix/out/008_dg_1_11100_coord.tex}
+% id = 0, graphName = A
+\node[modStyleDGHyperVertex, at=(v-coord-0-0)] (v-0-0) {\includegraphics[scale=\modDGHyperImageScale] {\modInputPrefix/out/009_g_7_11311100.pdf}\\{$\mathrm{A}$}};
+% id = 1, graphName = B
+\node[modStyleDGHyperVertex, at=(v-coord-1-0)] (v-1-0) {\includegraphics[scale=\modDGHyperImageScale] {\modInputPrefix/out/010_g_8_11311100.pdf}\\{$\mathrm{B}$}};
+% id = 2, graphName = C
+\node[modStyleDGHyperVertex, at=(v-coord-2-0)] (v-2-0) {\includegraphics[scale=\modDGHyperImageScale] {\modInputPrefix/out/011_g_9_11311100.pdf}\\{$\mathrm{C}$}};
+% id = 5, graphName = D
+\node[modStyleDGHyperVertex, at=(v-coord-5-0)] (v-5-0) {\includegraphics[scale=\modDGHyperImageScale] {\modInputPrefix/out/012_g_10_11311100.pdf}\\{$\mathrm{D}$}};
+% id = 3{ 'A' 'B' }, { 'C' }
+\node[modStyleDGHyperEdge, at=(v-coord-3-0)] (v-3-0) {};
+% id = 6{ 'A' 'C' 'D' }, { 'B' }
+\node[modStyleDGHyperEdge, at=(v-coord-6-0)] (v-6-0) {};
+% id = 3{ 'A' 'B' }, { 'C' }
+\path[modStyleDGHyperConnector] (v-0-0) to (v-3-0);
+\path[modStyleDGHyperConnector] (v-1-0) to (v-3-0);
+\path[modStyleDGHyperConnector] (v-3-0) to (v-2-0);
+% id = 4{ 'C' }, { 'B' }
+\path[modStyleDGHyperConnector] (v-2-0) to node[auto, swap] {} (v-1-0);
+% id = 6{ 'A' 'C' 'D' }, { 'B' }
+\path[modStyleDGHyperConnector] (v-0-0) to (v-6-0);
+\path[modStyleDGHyperConnector] (v-2-0) to (v-6-0);
+\path[modStyleDGHyperConnector] (v-5-0) to (v-6-0);
+\path[modStyleDGHyperConnector] (v-6-0) to (v-1-0);
+\end{tikzpicture}%

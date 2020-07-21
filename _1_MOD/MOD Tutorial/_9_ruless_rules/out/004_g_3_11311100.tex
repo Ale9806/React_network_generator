@@ -1,0 +1,14 @@
+\begin{tikzpicture}[remember picture, scale=\modGraphScale, baseline={([yshift={-0.5ex}]current bounding box)}, thick, solid]
+\input{\modInputPrefix/out/004_g_3_mol_coord.tex}
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-0)] (\modIdPrefix v-0) {\textbf{C}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-0.west), anchor=east] (\modIdPrefix v-0-aux) {\textbf{H$_{2}$}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-0-aux), text depth=.25ex] {\phantom{\textbf{H$_2$}}};
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-1)] (\modIdPrefix v-1) {\textbf{}};
+\node[modStyleGraphVertex, modStyleCarbon, at=(\modIdPrefix v-coord-2)] (\modIdPrefix v-2) {\textbf{}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-coord-3)] (\modIdPrefix v-3) {\textbf{C}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-3.east), anchor=west] (\modIdPrefix v-3-aux) {\textbf{H$_{2}$}};
+\node[modStyleGraphVertex, at=(\modIdPrefix v-3-aux), text depth=.25ex] {\phantom{\textbf{H$_2$}}};
+\modDrawAromaticBond{1}{0}{0}{1}{}{}
+\modDrawAromaticBond{2}{1}{0}{0}{}{}
+\modDrawAromaticBond{3}{2}{1}{0}{}{}
+\end{tikzpicture}
